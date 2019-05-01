@@ -9,17 +9,437 @@ Argentina,92,outstanding,19,Other,Malbec,red
 Argentina,92,outstanding,20,Mendoza Province,Malbec,red
 Argentina,92,outstanding,20,Mendoza Province,Malbec,red
 Argentina,92,outstanding,20,Mendoza Province,Malbec,red
-Argentina,92,outstanding,20,Mendoza Province,Malbec,red
-Argentina,92,outstanding,20,Mendoza Province,Malbec,red
-Argentina,92,outstanding,21,Mendoza Province,Malbec,red
-Argentina,92,outstanding,22,Mendoza Province,Malbec,red
-Argentina,92,outstanding,23,Mendoza Province,Cabernet Sauvignon,red
-Argentina,92,outstanding,23,Mendoza Province,Malbec,red
-Argentina,92,outstanding,23,Mendoza Province,Malbec,red
-Argentina,92,outstanding,23,Mendoza Province,Malbec,red
-Argentina,92,outstanding,25,Mendoza Province,Bonarda,red
-Argentina,92,outstanding,25,Mendoza Province,Bordeaux-style Red Blend,red
-Argentina,92,outstanding,25,Mendoza Province,Bordeaux-style Red Blend,red
-Argentina,92,outstanding,25,Mendoza Province,Malbec,red
-Argentina,92,outstanding,25,Mendoza Province,Malbec,red
-Argentina,92,outstanding,25,Mendoza Province,Malbec,red
+Australia,94,outstanding,19,South Australia,Riesling,white
+Australia,93,outstanding,15,Australia Other,Red Blend,red
+Australia,93,outstanding,29,Western Australia,Cabernet Sauvignon,red
+Australia,93,outstanding,30,South Australia,Cabernet Sauvignon,red
+Australia,93,outstanding,30,South Australia,Shiraz,red
+Australia,93,outstanding,30,South Australia,Shiraz,red
+Australia,93,outstanding,30,Western Australia,Shiraz,red
+Australia,92,outstanding,15,Victoria,Sangiovese,red
+Australia,92,outstanding,17,South Australia,Riesling,white
+Australia,92,outstanding,18,South Australia,Mourvedre-Syrah,red
+Austria,90,outstanding,25,Thermenregion,Austrian white blend,white
+Austria,90,outstanding,25,Thermenregion,Pinot Noir,red
+Austria,90,outstanding,25,Thermenregion,Pinot Noir,red
+Austria,90,outstanding,25,Thermenregion,St. Laurent,red
+Austria,90,outstanding,25,Wachau,Gruner Veltliner,white
+Austria,90,outstanding,25,Wachau,Gruner Veltliner,white
+Austria,90,outstanding,25,Wachau,Gruner Veltliner,white
+Austria,90,outstanding,25,Wachau,Pinot Blanc,white
+Austria,90,outstanding,25,Wachau,Pinot Blanc,white
+Austria,90,outstanding,25,Wagram,Riesling,white
+Bosnia and Herzegovina,88,very good,12,Mostar,Blatina,red
+Bosnia and Herzegovina,85,very good,13,Mostar,Vranec,white
+Brazil,88,very good,15,Serra Ga�_cha,Merlot,red
+Brazil,88,very good,20,Serra Ga�_cha,Chardonnay,white
+Brazil,88,very good,20,Vale Trentino,Moscatel,white
+Brazil,87,very good,20,Vale Trentino,Sparkling Blend,white
+Brazil,87,very good,21,Brazil,Red Blend,red
+Brazil,87,very good,25,Pinto Bandeira,Pinot Noir,red
+Brazil,86,very good,12,Serra Ga�_cha,Tannat,red
+Brazil,86,very good,12,Serra Ga�_cha,Tannat,red
+Brazil,86,very good,20,Vale dos Vinhedos,Champagne Blend,white
+Brazil,86,very good,23,Brazil,Champagne Blend,white
+Bulgaria,91,outstanding,23,Danube River Plains,Chardonnay,white
+Bulgaria,91,outstanding,25,Thracian Valley,Bordeaux-style Red Blend,red
+Bulgaria,91,outstanding,30,Thracian Valley,Bordeaux-style Red Blend,red
+Bulgaria,90,outstanding,11,Thracian Valley,Cabernet Sauvignon,red
+Bulgaria,90,outstanding,11,Thracian Valley,Cabernet Sauvignon,red
+Bulgaria,90,outstanding,11,Thracian Valley,Cabernet Sauvignon,red
+Bulgaria,90,outstanding,11,Thracian Valley,Cabernet Sauvignon,red
+Bulgaria,90,outstanding,11,Thracian Valley,Pinot Noir,red
+Bulgaria,90,outstanding,11,Thracian Valley,Pinot Noir,red
+Bulgaria,90,outstanding,12,Thracian Valley,Chardonnay,white
+Canada,93,outstanding,18,Ontario,Riesling,white
+Canada,93,outstanding,25,Ontario,Riesling,white
+Canada,93,outstanding,27,British Columbia,Merlot,red
+Canada,93,outstanding,30,British Columbia,Chardonnay,white
+Canada,93,outstanding,30,British Columbia,Chardonnay,white
+Canada,92,outstanding,16,Ontario,Riesling,white
+Canada,92,outstanding,18,British Columbia,Gewurztraminer,white
+Canada,92,outstanding,18,British Columbia,Gewurztraminer,white
+Canada,92,outstanding,20,British Columbia,Moscato,white
+Canada,92,outstanding,21,British Columbia,Merlot,red
+Chile,92,outstanding,22,Rapel Valley,Red Blend,red
+Chile,92,outstanding,23,Colchagua Valley,Syrah,red
+Chile,92,outstanding,23,Marchigue,Syrah,red
+Chile,92,outstanding,24,Colchagua Valley,Merlot,red
+Chile,92,outstanding,24,Colchagua Valley,Red Blend,red
+Chile,92,outstanding,24,Maipo Valley,Cabernet Sauvignon,red
+Chile,92,outstanding,25,Colchagua Valley,Cabernet Sauvignon,red
+Chile,92,outstanding,25,Loncomilla Valley,Carignan,red
+Chile,92,outstanding,25,Maule Valley,Red Blend,red
+Chile,92,outstanding,26,Cachapoal Valley,Red Blend,red
+Chile,92,outstanding,26,Colchagua Valley,Cabernet Sauvignon,red
+Croatia,84,good,13,Peljesac,Plavac Mali,red
+Croatia,84,good,13,Podunavlje,Blaufr�_nkisch,red
+Croatia,84,good,13,Podunavlje,Pinot Noir,red
+Croatia,84,good,16,Peljesac,Plavac Mali,red
+Croatia,83,good,19,North Dalmatia,White Blend,white
+Croatia,83,good,21,Peljesac,Rose,rose
+Croatia,82,good,16,Istria,Malvasia,white
+Croatia,81,good,18,Istria,Teran,red
+Cyprus,89,very good,17,Commandaria,Red Blend,red
+Cyprus,89,very good,20,Commandaria,Xinisteri,white
+Cyprus,89,very good,21,Lemesos,Xynisteri,white
+Cyprus,88,very good,14,Pafos,White Blend,white
+Cyprus,88,very good,14,Pafos,White Blend,white
+Cyprus,87,very good,11,Cyprus,White Blend,white
+Cyprus,87,very good,15,Cyprus,White Blend,white
+Cyprus,87,very good,18,Kathikas,Red Blend,red
+Cyprus,85,very good,16,Pafos,Xynisteri,white
+Czech Republic,88,very good,15,Moravia,Riesling,white
+Czech Republic,88,very good,15,Moravia,St. Laurent,red
+Czech Republic,88,very good,18,Moravia,Cabernet Moravia,red
+Czech Republic,87,very good,15,Moravia,Rivaner,white
+Czech Republic,87,very good,15,Moravia,Sauvignon Blanc,white
+Czech Republic,85,very good,18,Moravia,Cabernet Moravia,red
+Czech Republic,85,very good,25,Moravia,Welschriesling,white
+Czech Republic,84,good,16,Moravia,Sauvignon Blanc,white
+England,92,outstanding,27,England,Sparkling Blend,white
+England,90,outstanding,27,England,Pinot Noir,red
+England,89,very good,25,England,Sparkling Blend,white
+England,89,very good,25,England,Sparkling Blend,white
+France,96,classic,28,Bordeaux,Bordeaux-style White Blend,white
+France,96,classic,29,Alsace,Riesling,white
+France,95,classic,20,Southwest France,Red Blend,red
+France,95,classic,25,Alsace,Riesling,white
+France,95,classic,25,Southwest France,Petit Manseng,white
+France,95,classic,26,Alsace,Muscat,white
+France,95,classic,30,Alsace,Riesling,white
+France,94,outstanding,18,Southwest France,Petit Manseng,white
+France,94,outstanding,20,Alsace,White Blend,white
+France,94,outstanding,20,Beaujolais,Gamay,red
+France,94,outstanding,20,Provence,Rose,rose
+France,94,outstanding,20,Southwest France,Malbec,red
+France,94,outstanding,20,Southwest France,Red Blend,red
+France,94,outstanding,21,Beaujolais,Gamay,red
+Germany,88,very good,14,Rheinhessen,Scheurebe,white
+Germany,88,very good,15,Mosel,Red Blend,red
+Germany,88,very good,15,Mosel,Riesling,white
+Germany,88,very good,15,Mosel,Riesling,white
+Germany,88,very good,15,Mosel,Riesling,white
+Germany,88,very good,15,Mosel,Riesling,white
+Germany,88,very good,15,Rheingau,Riesling,white
+Germany,88,very good,15,Rheingau,Riesling,white
+Germany,88,very good,15,Rheingau,Riesling,white
+Germany,88,very good,15,Rheingau,Riesling,white
+Germany,88,very good,15,Rheinhessen,Pinot Grigio,white
+Germany,88,very good,15,Rheinhessen,Riesling,white
+Germany,88,very good,15,Rheinhessen,Riesling,white
+Germany,88,very good,15,Rheinhessen,Riesling,white
+Germany,88,very good,15,Rheinhessen,Riesling,white
+Germany,88,very good,15,Rheinhessen,Riesling,white
+Germany,88,very good,15,Rheinhessen,Riesling,white
+Germany,88,very good,16,Baden,Rivaner,white
+Greece,86,very good,15,Limnos,Muscat of Alexandria,white
+Greece,86,very good,15,Mantinia,Moschofilero,white
+Greece,86,very good,15,Mavrodaphne of Patras,Mavrodaphne,red
+Greece,86,very good,15,Nemea,Agiorgitiko,red
+Greece,86,very good,15,Peloponnese,Agiorgitiko,red
+Greece,86,very good,15,Peloponnese,Chardonnay,white
+Greece,86,very good,15,Peloponnese,Merlot,red
+Greece,86,very good,16,Samos,Muscat,white
+Greece,86,very good,17,Pageon,Chardonnay,white
+Greece,86,very good,18,Drama,Assyrtico,white
+Greece,86,very good,18,Nemea,Agiorgitiko,red
+Greece,86,very good,18,Santorini,Assyrtico,white
+Greece,86,very good,18,Thessalikos,White Blend,white
+Greece,86,very good,20,Amyndeon,Xinomavro,red
+Greece,86,very good,20,Florina,Malagouzia,white
+Hungary,92,outstanding,16,Tokaji,Furmint,white
+Hungary,91,outstanding,20,Tokaji,Furmint,white
+Hungary,91,outstanding,20,Tokaji,Tokaji,white
+Hungary,91,outstanding,24,Tokaj,Furmint,white
+Hungary,91,outstanding,25,Tokaji,Furmint,white
+Hungary,91,outstanding,30,Tokaj,Tokaji,white
+Hungary,90,outstanding,15,Tokaj,Furmint,white
+Hungary,90,outstanding,15,Tokaj,Furmint,white
+Hungary,90,outstanding,16,Tokaji,White Blend,white
+Hungary,90,outstanding,18,Hungary,Muscat Blanc,white
+Hungary,90,outstanding,19,Tokaj,Furmint,white
+Hungary,90,outstanding,20,Tokaj,Furmint,white
+Hungary,90,outstanding,20,Tokaj,Furmint,white
+Hungary,90,outstanding,20,Tokaj,Furmint,white
+Hungary,90,outstanding,20,Tokaj,White Blend,white
+India,93,outstanding,20,Nashik,Shiraz,red
+India,92,outstanding,19,Nashik,Shiraz,red
+India,91,outstanding,12,Nashik,Shiraz,red
+India,90,outstanding,10,Nashik,Chenin Blanc,white
+India,90,outstanding,10,Nashik,Chenin Blanc,white
+India,90,outstanding,12,Nashik,Sauvignon Blanc,white
+India,90,outstanding,13,Nashik,Shiraz,red
+India,89,very good,12,Nashik,Sauvignon Blanc,white
+India,87,very good,12,Nashik,Chenin Blanc,white
+Israel,94,outstanding,25,Galilee,Cabernet Sauvignon,red
+Israel,93,outstanding,17,Galilee,Shiraz,red
+Israel,93,outstanding,17,Judean Hills,Shiraz,red
+Israel,93,outstanding,25,Galilee,Bordeaux-style Red Blend,red
+Israel,93,outstanding,25,Samson,Petite Sirah,red
+Israel,93,outstanding,30,Israel,Red Blend,red
+Israel,92,outstanding,17,Galilee,Merlot,red
+Israel,92,outstanding,17,Judean Hills,Cabernet Sauvignon,red
+Israel,92,outstanding,17,Upper Galilee,Cabernet Sauvignon,red
+Israel,92,outstanding,17,Upper Galilee,Shiraz,red
+Israel,92,outstanding,22,Galilee,Rhone-style Red Blend,red
+Israel,92,outstanding,22,Galilee,Rhone-style Red Blend,red
+Israel,92,outstanding,25,Galilee,Rhone-style Red Blend,red
+Israel,92,outstanding,28,Galilee,Shiraz,red
+Israel,92,outstanding,28,Judean Hills,Cabernet Sauvignon,red
+Israel,92,outstanding,29,Galilee,Merlot,red
+Israel,92,outstanding,29,Galilee,Syrah,red
+Israel,92,outstanding,30,Judean Hills,Cabernet Sauvignon,red
+Israel,92,outstanding,30,Judean Hills,Cabernet Sauvignon,red
+Israel,92,outstanding,30,Shomron,Cabernet Sauvignon,red
+Israel,91,outstanding,13,Galilee,Red Blend,red
+Italy,93,outstanding,30,Sicily & Sardinia,Nerello Mascalese,red
+Italy,93,outstanding,30,Sicily & Sardinia,White Blend,white
+Italy,93,outstanding,30,Sicily & Sardinia,White Blend,white
+Italy,93,outstanding,30,Tuscany,Red Blend,red
+Italy,93,outstanding,30,Tuscany,Red Blend,red
+Italy,93,outstanding,30,Tuscany,Red Blend,red
+Italy,93,outstanding,30,Tuscany,Red Blend,red
+Italy,93,outstanding,30,Tuscany,Sangiovese,red
+Italy,93,outstanding,30,Tuscany,Sangiovese Grosso,red
+Italy,92,outstanding,15,Sicily & Sardinia,Carignano,red
+Italy,92,outstanding,15,Veneto,Red Blend,red
+Italy,92,outstanding,16,Piedmont,Moscato,white
+Italy,92,outstanding,16,Piedmont,Red Blend,red
+Italy,92,outstanding,17,Piedmont,Moscato,white
+Italy,92,outstanding,17,Sicily & Sardinia,Vermentino,white
+Lebanon,88,very good,25,Lebanon,White Blend,white
+Lebanon,88,very good,30,Lebanon,Chardonnay,white
+Lebanon,87,very good,20,Bekaa Valley,Red Blend,red
+Lebanon,87,very good,26,Bekaa Valley,Red Blend,red
+Lebanon,86,very good,20,Bekaa Valley,White Blend,white
+Lebanon,84,good,19,Bekaa Valley,Red Blend,red
+Lebanon,83,good,19,Bekaa Valley,White Blend,white
+Lebanon,83,good,25,Bekaa Valley,Red Blend,red
+Lebanon,82,good,14,Bekaa Valley,Red Blend,red
+Lebanon,82,good,15,Bekaa Valley,Rose,rose
+Luxembourg,90,outstanding,22,Moselle Luxembourgeoise,Auxerrois,white
+Luxembourg,89,very good,16,Moselle Luxembourgeoise,White Blend,white
+Luxembourg,89,very good,26,Moselle Luxembourgeoise,Sparkling Blend,white
+Luxembourg,88,very good,23,Moselle Luxembourgeoise,Riesling,white
+Luxembourg,88,very good,23,Moselle Luxembourgeoise,Riesling,white
+Luxembourg,88,very good,30,Moselle Luxembourgeoise,Sparkling Blend,white
+Macedonia,89,very good,15,Tikves,Vranec,white
+Macedonia,89,very good,20,Tikves,Vranec,white
+Macedonia,88,very good,15,Tikves,_ilavka,white
+Macedonia,88,very good,15,Tikves,Rkatsiteli,white
+Macedonia,88,very good,15,Tikves,Sauvignon,white
+Macedonia,87,very good,15,Tikves,Chardonnay,white
+Macedonia,87,very good,15,Tikves,Pinot Noir,red
+Macedonia,87,very good,15,Tikves,Pinot Noir,red
+Macedonia,86,very good,16,Tikves,Red Blend,red
+Macedonia,85,very good,15,Tikves,White Blend,white
+Macedonia,84,good,15,Tikves,Pinot Noir,red
+Macedonia,84,good,16,Tikves,Vranec,white
+Mexico,88,very good,18,Valle de Guadalupe,Nebbiolo,red
+Mexico,88,very good,20,Valle de Guadalupe,Nebbiolo,red
+Mexico,88,very good,22,Valle de Guadalupe,Chardonnay,white
+Mexico,88,very good,22,Valle de Guadalupe,Red Blend,red
+Mexico,88,very good,26,San Vicente,Red Blend,red
+Mexico,88,very good,27,San Vicente,Nebbiolo,red
+Mexico,88,very good,30,Valle de Guadalupe,Red Blend,red
+Mexico,87,very good,12,Valle de Guadalupe,White Blend,white
+Mexico,87,very good,15,Valle de Guadalupe,Sauvignon Blanc,white
+Mexico,87,very good,16,Valle de Guadalupe,Chenin Blanc,white
+Mexico,87,very good,18,Valle de Guadalupe,Cabernet Sauvignon,red
+Mexico,87,very good,19,Valle de Guadalupe,Muscatel,white
+Mexico,87,very good,19,Valle de Guadalupe,Muscatel,white
+Mexico,87,very good,20,Valle de Guadalupe,Cabernet Blend,red
+Mexico,87,very good,20,Valle de Guadalupe,Petite Sirah,red
+Moldova,85,very good,10,Moldova,Moscato,white
+Moldova,85,very good,13,Codru Region,Sparkling Blend,white
+Moldova,84,good,9,Moldova,Muscat,white
+Moldova,84,good,13,Moldova,Red Blend,red
+Moldova,83,good,8,Cahul,Pinot Grigio,white
+Moldova,83,good,9,Moldova,Muscat,white
+Moldova,83,good,12,Moldova,Champagne Blend,white
+Moldova,83,good,16,Moldova,Sauvignon Blanc,white
+Moldova,82,good,8,Cahul,Red Blend,red
+Moldova,82,good,9,Moldova,Muscat,white
+Moldova,82,good,13,Moldova,Saperavi,red
+Morocco,93,outstanding,18,Zenata,Red Blend,red
+Morocco,91,outstanding,14,Zenata,Red Blend,red
+Morocco,91,outstanding,25,Morocco,Red Blend,red
+Morocco,90,outstanding,17,Zenata,Syrah,red
+Morocco,90,outstanding,18,Zenata,Syrah,red
+Morocco,90,outstanding,18,Zenata,Syrah,red
+Morocco,89,very good,14,Zenata,Cabernet Sauvignon Grenache,red
+Morocco,89,very good,15,Zenata,Red Blend,red
+Morocco,89,very good,18,Zenata,Cabernet Blend,red
+Morocco,89,very good,18,Zenata,Chardonnay,white
+Morocco,89,very good,18,Zenata,Syrah,red
+Morocco,89,very good,25,Morocco,Red Blend,red
+Morocco,89,very good,25,Morocco,Red Blend,red
+Morocco,88,very good,15,Zenata,Red Blend,red
+Morocco,88,very good,18,Morocco,Chardonnay,white
+Morocco,88,very good,18,Morocco,Sauvignon Blanc,white
+Morocco,88,very good,18,Zenata,Chardonnay,white
+Morocco,88,very good,18,Zenata,Sauvignon Blanc,white
+Morocco,88,very good,18,Zenata,Sauvignon Blanc,white
+Morocco,88,very good,18,Zenata,Sauvignon Blanc,white
+Morocco,88,very good,18,Zenata,Sauvignon Blanc,white
+Morocco,87,very good,15,Morocco,White Blend,white
+Morocco,87,very good,15,Zenata,White Blend,white
+Morocco,87,very good,18,Zenata,Red Blend,red
+Morocco,86,very good,30,Guerrouane,Syrah-Grenache,red
+Morocco,86,very good,30,Guerrouane,Syrah-Grenache,red
+Morocco,85,very good,14,Zenata,White Blend,white
+New Zealand,93,outstanding,25,Marlborough,Sauvignon Blanc,white
+New Zealand,93,outstanding,30,Hawke's Bay,Sauvignon Blanc,white
+New Zealand,93,outstanding,30,Hawke's Bay,Sauvignon Blanc,white
+New Zealand,93,outstanding,30,Hawke's Bay,Syrah,red
+New Zealand,92,outstanding,17,Marlborough,Sauvignon Blanc,white
+New Zealand,92,outstanding,18,Hawke's Bay,Bordeaux-style Red Blend,red
+New Zealand,92,outstanding,18,Marlborough,Sauvignon Blanc,white
+New Zealand,92,outstanding,20,Marlborough,Sauvignon Blanc,white
+New Zealand,92,outstanding,20,Marlborough,Sauvignon Blanc,white
+New Zealand,92,outstanding,22,Marlborough,Sauvignon Blanc,white
+New Zealand,92,outstanding,22,Marlborough,Sauvignon Blanc,white
+New Zealand,92,outstanding,23,Central Otago,Pinot Gris,white
+New Zealand,92,outstanding,23,Central Otago,Riesling,white
+New Zealand,92,outstanding,23,Hawke's Bay,Syrah,red
+New Zealand,92,outstanding,23,Marlborough,Sauvignon Blanc,white
+New Zealand,92,outstanding,24,Awatere Valley,Pinot Noir,red
+Portugal,82,good,15,Douro,Touriga Nacional,red
+Portugal,82,good,18,Alentejano,Portuguese Red,red
+Portugal,82,good,19,Lisboa,Sauvignon Blanc,white
+Portugal,82,good,20,Douro,Portuguese Red,red
+Portugal,82,good,22,Alentejano,Portuguese White,white
+Portugal,82,good,24,Minho,Portuguese White,white
+Portugal,82,good,28,Tejo,Gewurztraminer-Riesling,white
+Portugal,82,good,30,Douro,Portuguese Red,red
+Portugal,81,good,8,Table wine,Portuguese Red,red
+Portugal,81,good,9,Alentejano,Portuguese Red,red
+Portugal,81,good,9,Vinho Verde,Rose,rose
+Portugal,81,good,10,Douro,Portuguese White,white
+Portugal,81,good,10,Douro,Rose,rose
+Portugal,81,good,10,Tejo,Rose,rose
+Portugal,81,good,11,Tejo,Rose,rose
+Portugal,81,good,12,Tejo,Rose,rose
+Portugal,81,good,13,Vinho Verde,Rose,rose
+Portugal,81,good,15,Lisboa,Portuguese Rose,rose
+Portugal,81,good,16,Alentejano,Portuguese Red,red
+Portugal,80,good,8,Vinho Verde,Portuguese White,white
+Portugal,80,good,8,Vinho Verde,Rose,rose
+Romania,92,outstanding,28,Recas,Sauvignon Blanc,white
+Romania,92,outstanding,28,Recas,Sauvignon Blanc,white
+Romania,89,very good,18,Dealu Mare,Red Blend,red
+Romania,89,very good,18,Dealu Mare,Red Blend,red
+Romania,89,very good,18,Dealu Mare,Sauvignon,white
+Romania,89,very good,20,Dealu Mare,Pinot Noir,red
+Romania,89,very good,20,Panciu,Red Blend,red
+Romania,89,very good,22,Dealu Mare,Feteasca Neagra,red
+Romania,89,very good,22,Dealu Mare,Feteasca Neagra,red
+Romania,89,very good,28,Dealu Mare,Red Blend,red
+Romania,88,very good,8,Viile Timisului,Pinot Grigio,white
+Romania,88,very good,9,Dealu Mare,Pinot Gris,white
+Romania,88,very good,9,Dealurile Munteniei,Pinot Noir,red
+Serbia,87,very good,26,Pocerina,Morava,white
+Serbia,86,very good,22,A_upa,Riesling,white
+Serbia,86,very good,22,A_upa,Riesling,white
+Slovakia,87,very good,16,Muzla,Riesling,white
+Slovenia,90,outstanding,12,Primorska,Sauvignon Blanc,white
+Slovenia,90,outstanding,15,Goriska Brda,Ribolla Gialla,white
+Slovenia,90,outstanding,15,Goriska Brda,Ribolla Gialla,white
+Slovenia,90,outstanding,17,Stajerska,Chardonnay,white
+Slovenia,90,outstanding,23,Kras,Teran,red
+Slovenia,90,outstanding,23,Kras,Vitovska,white
+Slovenia,90,outstanding,25,Goriska Brda,Sauvignonasse,white
+Slovenia,89,very good,12,Primorska,Pinot Grigio,white
+Slovenia,89,very good,12,Primorska,Pinot Grigio,white
+Slovenia,89,very good,12,Primorska,Sauvignon Blanc,white
+Slovenia,89,very good,15,Goriska Brda,White Blend,white
+Slovenia,89,very good,15,Goriska Brda,White Blend,white
+Slovenia,89,very good,18,Stajerska,White Blend,white
+South Africa,93,outstanding,15,Stellenbosch,Cabernet Sauvignon,red
+South Africa,92,outstanding,17,Stellenbosch,Chardonnay,white
+South Africa,92,outstanding,22,Walker Bay,Chardonnay,white
+South Africa,92,outstanding,23,Stellenbosch,Chardonnay,white
+South Africa,92,outstanding,24,Stellenbosch,Chardonnay,white
+South Africa,92,outstanding,25,Stellenbosch,White Blend,white
+South Africa,92,outstanding,27,Stellenbosch,Cabernet Sauvignon,red
+South Africa,92,outstanding,27,Stellenbosch,Cabernet Sauvignon,red
+South Africa,92,outstanding,28,Swartland,White Blend,white
+South Africa,92,outstanding,28,Western Cape,Chenin Blanc,white
+South Africa,92,outstanding,30,Western Cape,Semillon-Sauvignon Blanc,white
+South Africa,91,outstanding,19,Simonsberg-Stellenbosch,Chenin Blanc,white
+South Africa,91,outstanding,19,Swartland,Pinotage,red
+South Africa,91,outstanding,20,Constantia,Chardonnay,white
+South Africa,91,outstanding,20,Elgin,Chardonnay,white
+South Africa,91,outstanding,20,Paarl,Bordeaux-style Red Blend,red
+South Africa,91,outstanding,20,Robertson,Chardonnay,white
+South Africa,91,outstanding,20,Robertson,Chardonnay,white
+South Africa,91,outstanding,20,Stellenbosch,Chardonnay,white
+Spain,90,outstanding,28,Catalonia,Sparkling Blend,white
+Spain,90,outstanding,28,Catalonia,Sparkling Blend,white
+Spain,90,outstanding,28,Central Spain,Cabernet Sauvignon,red
+Spain,90,outstanding,28,Central Spain,Cabernet Sauvignon-Syrah,red
+Spain,90,outstanding,28,Central Spain,Cabernet Sauvignon-Syrah,red
+Spain,90,outstanding,28,Central Spain,Tempranillo,red
+Spain,90,outstanding,28,Central Spain,Tempranillo,red
+Spain,90,outstanding,28,Levante,Red Blend,red
+Spain,90,outstanding,28,Levante,Red Blend,red
+Spain,90,outstanding,28,Northern Spain,Tempranillo,red
+Spain,90,outstanding,28,Northern Spain,Tempranillo,red
+Spain,90,outstanding,28,Northern Spain,Tempranillo Blend,red
+Spain,90,outstanding,28,Northern Spain,Tempranillo Blend,red
+Spain,90,outstanding,28,Northern Spain,Tinta de Toro,red
+Spain,90,outstanding,28,Northern Spain,Tinta de Toro,red
+Spain,90,outstanding,28,Northern Spain,White Blend,white
+Spain,90,outstanding,29,Andalucia,Pedro Ximenez,white
+Spain,90,outstanding,29,Andalucia,Pedro Ximenez,white
+Switzerland,90,outstanding,28,Valais,Chasselas,white
+Switzerland,90,outstanding,30,Valais,Pinot Noir-Gamay,red
+Turkey,91,outstanding,30,Ankara,Bogazkere,red
+Turkey,90,outstanding,15,Ankara,Kalecik Karasi,red
+Turkey,90,outstanding,16,Turkey,Red Blend,red
+Turkey,90,outstanding,19,Cappadocia,Bogazkere,red
+Turkey,90,outstanding,23,Ankara,Okuzgozu,red
+Turkey,90,outstanding,24,Aegean,Red Blend,red
+Turkey,90,outstanding,27,Ankara,Kalecik Karasi,red
+Turkey,90,outstanding,27,Ankara,Kalecik Karasi,red
+Turkey,90,outstanding,27,Ankara,Kalecik Karasi,red
+Turkey,90,outstanding,27,Ankara,Kalecik Karasi,red
+Ukraine,84,good,6,Ukraine,Merlot,red
+Ukraine,84,good,6,Ukraine,Rose,rose
+Ukraine,84,good,9,Ukraine,Merlot,red
+Ukraine,84,good,13,Ukraine,Sparkling Blend,white
+Ukraine,83,good,10,Ukraine,Sparkling Blend,white
+Ukraine,83,good,10,Ukraine,Sparkling Blend,white
+Ukraine,83,good,13,Ukraine,Sparkling Blend,white
+Ukraine,82,good,10,Ukraine,Sparkling Blend,white
+Ukraine,82,good,10,Ukraine,Sparkling Blend,white
+Uruguay,91,outstanding,22,Montevideo,Tannat,red
+Uruguay,91,outstanding,22,Uruguay,Tannat-Cabernet Franc,red
+Uruguay,91,outstanding,25,Montevideo,Albari_o,white
+Uruguay,90,outstanding,20,Canelones,Red Blend,red
+Uruguay,90,outstanding,24,Uruguay,Tannat,red
+Uruguay,90,outstanding,25,Montevideo,Albari_o,white
+Uruguay,90,outstanding,29,Juanico,Tannat,red
+Uruguay,90,outstanding,30,Uruguay,Pinot Noir,red
+Uruguay,89,very good,16,Canelones,Tannat-Cabernet Franc,red
+Uruguay,89,very good,18,Canelones,Tannat,red
+Uruguay,89,very good,20,Uruguay,Tannat,red
+Uruguay,89,very good,20,Uruguay,Tannat,red
+Uruguay,89,very good,22,Canelones,Tannat,red
+Uruguay,88,very good,13,Canelones,Tannat,red
+Uruguay,88,very good,16,Canelones,Tannat,red
+US,95,classic,30,California,Chardonnay,white
+US,95,classic,30,California,Chardonnay,white
+US,95,classic,30,California,Mourvedre,red
+US,95,classic,30,California,Viognier,white
+US,95,classic,30,California,Zinfandel,red
+US,95,classic,30,Washington,Chardonnay,white
+US,95,classic,30,Washington,Viognier,white
+US,94,outstanding,16,California,Moscato Giallo,white
+US,94,outstanding,18,California,Chardonnay,white
+US,94,outstanding,18,California,Petite Sirah,red
+US,94,outstanding,18,Oregon,Riesling,white
+US,94,outstanding,18,Washington,Viognier,white
+US,94,outstanding,20,California,Chardonnay,white
+US,94,outstanding,20,Oregon,Riesling,white
